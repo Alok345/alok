@@ -4,8 +4,8 @@
 
 A production-ready full stack authentication system built using:
 
-- **Frontend**: React with TypeScript, Tailwind CSS, Axios, React Router
-- **Backend**: Express.js with MySQL, JWT, bcrypt, dotenv
+- Frontend: React with TypeScript, Tailwind CSS, Axios, React Router
+- Backend: Express.js with MySQL, JWT, bcrypt, dotenv
 
 This app includes login, protected routes, token-based auth, user dashboard editing, and clean UI.
 
@@ -16,7 +16,9 @@ This app includes login, protected routes, token-based auth, user dashboard edit
 ```
 
 root/
+
 ├── client/         # Frontend - React App
+
 └── server/         # Backend - Express API
 
 ````
