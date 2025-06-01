@@ -99,10 +99,7 @@ VALUES ('Test User', 'test@example.com', '$2a$10$hashedPasswordHere', '999999999
 
 ---
 
-## 📸 UI Preview
 
-![Login Screenshot](https://your-screenshot-url.com/login.png)
-![Dashboard Screenshot](https://your-screenshot-url.com/dashboard.png)
 
 ---
 
