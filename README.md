@@ -123,20 +123,3 @@ Pull requests are welcome! Please fork the repo and submit a PR.
 ## 📄 License
 
 MIT © [Alok Kumar Panday](https://github.com/Alok345)
-
-```
-
----
-
-### ✅ Tips to Finalize:
-1. Replace:
-   - `https://github.com/your-username/fullstack-auth-app.git`
-   - Screenshot URLs if available
-   - Database credentials (keep safe, don't push `.env`)
-2. Upload it in your root folder:
-   - Place `README.md` at `your-project/README.md`
-
----
-
-Would you like me to auto-generate `.gitignore`, `package.json`, or folder templates too?
-```
